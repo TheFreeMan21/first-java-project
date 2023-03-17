@@ -18,14 +18,17 @@ public class ObjectReferenceApp {
 
         System.out.println("Number of seats: "+numberOfSeats);
         System.out.println("Horsepower: "+horsePower);
-        System.out.println("Price: $"+price);
+        System.out.println("Price: $"+price.floatValue());
         System.out.println("Registration number: "+registrationNumber);
         System.out.println("Combined fuel consumption: " + fuelConsumptionCombined);
-        System.out.println("Combined fuel consumption: " + fuelConsumptionPrecise);
+        System.out.println("Combined fuel consumption: " + fuelConsumptionPrecise.intValue());
         System.out.println("This car is damaged: " + isDamaged);
         System.out.println("Energy efficiency category: " + energyEfficiencyCategory);
 
         System.out.println("The car model: " + carModel);
+        System.out.println("The car model upper case: " + carModel.toUpperCase());
+        System.out.println("The car model lower case: " + carModel.toLowerCase());
+        System.out.println("Car model and car model with new keyword are equals: " + carModel.equals(carModelNew));
         System.out.println("The car model with new keyword: " + carModelNew);
 
     }
