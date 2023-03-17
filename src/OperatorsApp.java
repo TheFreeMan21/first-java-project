@@ -45,6 +45,37 @@ public class OperatorsApp {
 
         System.out.println();
 
+        System.out.println("Car's price equals the money in the bank: " + (price==moneyInTheBank));
+        System.out.println("Car's price doesn't equal the money in the bank: " + (price!=moneyInTheBank));
+        System.out.println("Car's price is greater then the money in the bank: " + (price>moneyInTheBank));
+        System.out.println("Car's price lower than the money in the bank: " + (price<moneyInTheBank));
+        System.out.println("Car's price is greater then or equals the money in the bank: " + (price>=moneyInTheBank));
+        System.out.println("Car's price lower than or equals the money in the bank: " + (price<=moneyInTheBank));
+        System.out.println("The carModel variable's datatype is a String: " + (carModel instanceof String));
+        System.out.println();
+
+        String damagedText = isDamaged ? "The car is damaged":"The car is not damaged";
+        System.out.println(damagedText);
+        System.out.println();
+
+        String worthSeeingText = !isDamaged || price<=20000 ? "It's worth seeing the car":"It isn't worth to see the car";
+        System.out.println(worthSeeingText);
+
+        String worthRepairingText = isDamaged && price <= 10000 ? "It's worth repairing the car":"It isn't worth to repair the car";
+        System.out.println(worthRepairingText);
+        System.out.println();
+
+        price += 1000;
+        System.out.println("Price increased: $" + price);
+        price -= 2000;
+        System.out.println("Price decreased: $" + price);
+        price *= 2;
+        System.out.println("Price multiplied: $" + price);
+        price /= 2;
+        System.out.println("Price divided: $" + price);
+        price %= 10000;
+        System.out.println("Price remained: $" + price);
+
     }
 
 }
