@@ -44,6 +44,15 @@ public class MyFirstJavaApp {
         System.out.println("Number of doors: "+ numberOfDoors);
         System.out.println("Number of seats: "+ numberOfSeats);
 
+        System.out.println("Conversion");
+        short newNumberOfSeats= numberOfSeats;
+        System.out.println("The value of new number of seats"+ newNumberOfSeats);
+        double newFuelConsumptionCombined = fuelConsumptionCombined;
+        System.out.println("The new value of combined fuel consumption: "+newFuelConsumptionCombined+"l/100km");
+
+        byte newPower = (byte) power;
+        System.out.println("The value of the new power: " + newPower + "kW");
+
     }
 
 }
