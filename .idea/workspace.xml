@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84740d1c-42ce-4f67-91bb-6eeaef97815e" name="Changes" comment="New Changes">
-      <change afterPath="$PROJECT_DIR$/src/FunctionApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IMDBApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +52,14 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FunctionApp">
+  <component name="RunManager" selected="Application.IMDBApp">
+    <configuration name="ArraysApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysApp" />
+      <module name="first-java-project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ControlFlowApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ControlFlowApp" />
       <module name="first-java-project" />
@@ -66,6 +74,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="IMDBApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IMDBApp" />
+      <module name="first-java-project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LoopsApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LoopsApp" />
       <module name="first-java-project" />
@@ -73,27 +88,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectReferenceApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectReferenceApp" />
-      <module name="first-java-project" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OperatorsApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OperatorsApp" />
-      <module name="first-java-project" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IMDBApp" />
+        <item itemvalue="Application.ArraysApp" />
         <item itemvalue="Application.FunctionApp" />
         <item itemvalue="Application.ControlFlowApp" />
         <item itemvalue="Application.LoopsApp" />
-        <item itemvalue="Application.OperatorsApp" />
-        <item itemvalue="Application.ObjectReferenceApp" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679228650862</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="New Changes">
+      <created>1679230206293</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1679230206293</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
