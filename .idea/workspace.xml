@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84740d1c-42ce-4f67-91bb-6eeaef97815e" name="Changes" comment="New Changes">
-      <change afterPath="$PROJECT_DIR$/src/ArraysApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IMDBApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArraysApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/beginner/ArraysApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControlFlowApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/beginner/ControlFlowApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FirstPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/beginner/FirstPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FunctionApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/beginner/FunctionApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IMDBApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/beginner/IMDBApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LoopsApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/beginner/LoopsApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyFirstJavaApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/beginner/MyFirstJavaApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObjectReferenceApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/beginner/ObjectReferenceApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OperatorsApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/beginner/OperatorsApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,43 +54,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
-  <component name="RunManager" selected="Application.IMDBApp">
+}]]></component>
+  <component name="RunManager" selected="Application.ArraysApp">
     <configuration name="ArraysApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraysApp" />
+      <option name="MAIN_CLASS_NAME" value="com.beginner.ArraysApp" />
       <module name="first-java-project" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="ControlFlowApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ControlFlowApp" />
+      <option name="MAIN_CLASS_NAME" value="com.beginner.ControlFlowApp" />
       <module name="first-java-project" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="FunctionApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FunctionApp" />
+      <option name="MAIN_CLASS_NAME" value="com.beginner.FunctionApp" />
       <module name="first-java-project" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="IMDBApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IMDBApp" />
+      <option name="MAIN_CLASS_NAME" value="com.beginner.IMDBApp" />
       <module name="first-java-project" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="LoopsApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LoopsApp" />
+      <option name="MAIN_CLASS_NAME" value="com.beginner.LoopsApp" />
       <module name="first-java-project" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,8 +100,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IMDBApp" />
         <item itemvalue="Application.ArraysApp" />
+        <item itemvalue="Application.IMDBApp" />
         <item itemvalue="Application.FunctionApp" />
         <item itemvalue="Application.ControlFlowApp" />
         <item itemvalue="Application.LoopsApp" />
@@ -198,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679230206293</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="New Changes">
+      <created>1679330053639</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1679330053639</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
